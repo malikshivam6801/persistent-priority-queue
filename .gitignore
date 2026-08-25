@@ -1,3 +1,4 @@
 priority_queue.json
 __pycache__/
 *.pyc
+*.tmp
